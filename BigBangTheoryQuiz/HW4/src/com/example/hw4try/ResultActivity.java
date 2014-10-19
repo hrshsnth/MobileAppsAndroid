@@ -12,7 +12,7 @@ import android.view.*;
 /**
  * Assignment 4
  * ResultActivity.java * 
- * @author HARISHSAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN(800823490)
+ * @author HARISHSAINATH GANAPATHY(800833319)
  * 
  */
 public class ResultActivity extends Activity implements View.OnClickListener{

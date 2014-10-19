@@ -14,7 +14,7 @@ import android.widget.Toast;
 /**
  * Homework 3
  * MainActivity.java
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN (800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  *
  */
 public class MainActivity extends Activity implements View.OnClickListener{

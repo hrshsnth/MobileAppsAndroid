@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClassAssign5a</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="EditTextHint">Enter City,State,Country</string>
+    <string name="SwitchValue">Use Metric System</string>
+    <string name="btn_Submit">Submit</string>
+    <string name="temperatureText">Temperature</string>
+    <string name="HumidityText">Humidity</string>
+    <string name="pressureText">Pressure</string>
+    <string name="WindText">Wind</string>
+    <string name="CloudText">Clouds</string>
+    <string name="PrecipitationText">Precipitation</string>
+
+</resources>

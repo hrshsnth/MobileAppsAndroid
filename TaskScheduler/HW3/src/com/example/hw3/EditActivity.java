@@ -23,7 +23,7 @@ import android.view.*;
 /**
  * Homework 3
  * EditActivity.java
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN (800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  *
  */
 public class EditActivity extends Activity implements View.OnClickListener {

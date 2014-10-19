@@ -20,7 +20,7 @@ import android.widget.ImageView;
 /**
  * Assignment 4 
  * WelcomeActivity.java *
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN(800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  * 
  */
 public class WelcomeActivity extends Activity {

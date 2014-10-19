@@ -8,7 +8,7 @@ import android.os.Parcelable;
 /**
  * Assignment 4
  * Question.java
- * @author HARISHSAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN(800823490)
+ * @author HARISHSAINATH GANAPATHY(800833319)
  *
  */
 public class Question implements Parcelable {

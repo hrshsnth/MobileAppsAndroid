@@ -17,7 +17,7 @@ import android.widget.RadioGroup;
 /**
  * Homework 3
  * DeleteActivity.java
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN (800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  *
  */
 public class DeleteActivity extends Activity implements View.OnClickListener {

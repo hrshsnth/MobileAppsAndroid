@@ -23,7 +23,7 @@ import android.widget.Toast;
 /**
  * Homework 3
  * CreateTaskActivity.java
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN (800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  *
  */
 public class CreateTaskActivity extends Activity implements View.OnClickListener{

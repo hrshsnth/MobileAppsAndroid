@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClassAssign2a</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_Add">Add(+)</string>
+    <string name="button_Sub">Subtract(-)</string>
+    <string name="button_Mul">Multiply(*)</string>
+    <string name="button_Div">Divide(/)</string>
+    <string name="button_clear">Clear All</string>
+    <string name="Numberone">Number1</string>
+    <string name="Numbertwo">Number 2</string>
+
+</resources>

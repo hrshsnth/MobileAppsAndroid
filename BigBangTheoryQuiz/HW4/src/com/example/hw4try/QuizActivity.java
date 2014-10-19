@@ -22,7 +22,7 @@ import android.widget.TextView;
 /**
  * Assignment 4
  * QuizActivity.java * 
- * @author HARISHSAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN(800823490)
+ * @author HARISHSAINATH GANAPATHY(800833319)
  * 
  */
 public class QuizActivity extends Activity {

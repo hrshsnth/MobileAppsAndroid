@@ -13,7 +13,7 @@ import android.widget.RadioGroup;
 /**
  * Homework 3
  * DisplayActivity.java
- * @author HARISH SAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN (800823490)
+ * @author HARISH SAINATH GANAPATHY(800833319)
  *
  */
 public class DisplayActivity extends Activity implements View.OnClickListener {

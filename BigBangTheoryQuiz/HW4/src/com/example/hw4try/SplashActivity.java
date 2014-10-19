@@ -8,7 +8,7 @@ import android.os.Bundle;
 /**
  * Assignment 4
  * SplashActivity.java * 
- * @author HARISHSAINATH GANAPATHY(800833319) DAYABARAN GANGATHARAN(800823490)
+ * @author HARISHSAINATH GANAPATHY(800833319)
  * 
  */
 public class SplashActivity extends Activity {

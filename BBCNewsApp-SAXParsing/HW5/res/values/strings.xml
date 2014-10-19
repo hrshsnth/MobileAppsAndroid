@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW5</string>
+    <string name="popular">Popular News Events</string>
+    <string name="topstories">Top Stories</string>
+    <string name="world">World</string>
+    <string name="uk">UK</string>
+    <string name="business">Business</string>
+    <string name="politics">Politics</string>
+    <string name="health"></string>
+    <string name="healths">Health</string>
+    <string name="edu">Education &amp; Family</string>
+    <string name="science">Science &amp; Environment</string>
+    <string name="tech">Technology</string>
+    <string name="entertainment">Entertainment &amp; Arts</string>
+
+    <color name="Red">#9b3213</color>
+    <color name="White">#FFFFFF</color>
+
+    <string name="title_activity_news">News Headlines</string>
+    <string name="title_activity_detailed_news">News Details</string>
+</resources>

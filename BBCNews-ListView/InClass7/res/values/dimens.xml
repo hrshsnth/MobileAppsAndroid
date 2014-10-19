@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listheight">60dp</dimen>
+    <dimen name="textsize">25dp</dimen>
+    <dimen name="padding">10dp</dimen>
+        <dimen name="ivw">144dp</dimen>
+        <dimen name="ivht">81dp</dimen>
+            <dimen name="margin">23dp</dimen>
+              
+            <dimen name="thumbwid">50dp</dimen>
+				   <dimen name="thumbheight">50dp</dimen>
+				      <dimen name="listsize">23dp</dimen>
+</resources>

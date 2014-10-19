@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titlesize">20dp</dimen>
+    <dimen name="imgwidth">300dp</dimen>
+    <dimen name="imgheight">300dp</dimen>
+    <dimen name="margin">15dp</dimen>
+</resources>

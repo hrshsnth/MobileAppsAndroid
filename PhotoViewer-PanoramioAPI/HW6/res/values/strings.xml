@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detailed_photo">Photos Details</string>
+    <string name="mainact_name">Gallery List</string>
+
+</resources>

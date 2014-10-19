@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shopping Cart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="totalcost">Total Cost :</string>
+    <string name="costval"></string>
+    <string name="valcost">$0.00</string>
+    <string name="addcart">Add To Cart</string>
+    <string name="clearcart">Clear</string>
+    <string name="clear">Clear Cart</string>
+    <string name="alert_dialog_title">Pick an Item</string>
+    <string-array name="items">
+        <item >Apple</item>
+        <item >Banana</item>
+        <item >Cake</item>
+        <item >Cheese</item>
+        <item >Cookie</item>
+        <item >Milk</item>
+        <item >Toast</item>
+    </string-array>
+    <item name="Apple" format="string" type="string">apple</item>
+    <item name="Add" format="string" type="string">add</item>
+    <item name="Clear" format="string" type="string">clear</item>
+
+</resources>

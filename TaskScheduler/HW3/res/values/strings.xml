@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To-Do List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="createtask">Create Task</string>
+    <string name="edittask">Edit Task</string>
+    <string name="deletetask">Delete Task</string>
+    <string name="displaytask">Display Task</string>
+    <string name="finishtask">Finish</string>
+    <string name="title_activity_create_task">CreateTaskActivity</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_time">Time</string>
+    <string name="hint_location">Location</string>
+    <string name="txtview_priority">Priority</string>
+    <string name="radio_high">High</string>
+    <string name="radio_medium">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="btn_save">Save</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="btn_selectTask">Select Task</string>
+
+    <string-array name="Tasknames">
+        <item>temp</item>
+    </string-array>
+
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_firstTask">I&lt;&lt;</string>
+    <string name="btn_previoustask">&lt;</string>
+    <string name="btn_finish">Finish</string>
+    <string name="btn_nexttask">></string>
+    <string name="btn_lasttask">>>I</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW4try</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcome_title">Welcome to TBBT Quiz</string>
+    <string name="btn_Exit">Exit</string>
+    <string name="btn_startquiz">Start Quiz</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="QuestionNumber">Q</string>
+    <string name="questionTimer">Seconds</string>
+    <string name="Question"></string>
+    <string name="btn_Quit">Quit</string>
+    <string name="btn_next">Next</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="quiz_ResultText">Quiz Result</string>
+    <string name="CorrectAnswers_txt">Correct Answers</string>
+    <string name="tryagainText">Try Again and see if you can get all the correct answers</string>
+    <string name="btn_tryagain">Try Again</string>
+    <string name="finalScore">0%</string>
+
+</resources>

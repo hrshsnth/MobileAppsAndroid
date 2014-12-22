@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookAssist</string>
+    <string name="desc">Description</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_Login">Login</string>
+    <string name="txt_Password">Password</string>
+    <string name="hint_Login">Enter Valid Username</string>
+    <string name="hint_Password">Enter a Valid Password</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_Scan">Scan Bar Code</string>
+    <string name="btn_Login">Login</string>
+    <string name="btn_Register">Register</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="txt_Name">Name:</string>
+    <string name="txt_email">"E-Mail: "</string>
+    <string name="txt_password">Password</string>
+    <string name="hint_name">Enter a Valid Name</string>
+    <string name="hint_email">Enter a Valid Email ID</string>
+    <string name="btn_Signup">Sign Up</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="txt_MainMenutitle">Main Menu</string>
+    <string name="btn_SearchABook">Search a Book</string>
+    <string name="btn_MyBookFavourites">My Book Shelf</string>
+    <string name="txt_SearchBookTitle">Search a Book</string>
+    <string name="edit_ISBNtext">ISBN</string>
+    <string name="hint_EnterISBN">Enter ISBN Number</string>
+    <string name="txt_BookTitle">Book Title</string>
+    <string name="hint_BookTitle">Enter a Book Title</string>
+    <string name="txt_Or">(Or)</string>
+    <string name="btn_SearchButton">Search Book</string>
+    <string name="title_activity_book_details">BookDetailsActivity</string>
+    <string name="scan">Scan</string>
+    <string name="scan_resut_lable">Scan Result:</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it. </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_confPass">Confirm Password:</string>
+    <string name="hint_ConfPass">Enter password again</string>
+    <string name="txt_createacc">Create Account</string>
+    <string name="txt_PriceComparison">Price Comparison</string>
+    <string name="title_activity_catalogue">CatalogueActivity</string>
+    <string name="btn_AddToCatalogue">Add to Catalogue</string>
+    <string name="title_activity_show_book_details">ShowBookDetailsActivity</string>
+    <string name="title_activity_book_list">BookListActivity</string>
+    <string name="pagermargin">-340</string>
+    <string name="topseller">Top Sellers</string>
+    <string name="btn_AddtoWish">Add to Wish List</string>
+    <string name="btn_MyWishList">My Wish List</string>
+    <string name="title_activity_wish_list">WishListActivity</string>
+
+</resources>

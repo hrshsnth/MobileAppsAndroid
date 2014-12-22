@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW7</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="SearchQuery"></string>
+    <string name="SearchHint">Enter Keyword Search Term</string>
+    <string name="SearchSubmit">Submit</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="PhotoTitle"></string>
+    <string name="OwnerName"></string>
+    <string name="CommentsLoaded"></string>
+
+</resources>

@@ -1,0 +1,31 @@
+#
+# generated on 2014/11/02 03:03:18
+#
+# --table-start--
+dataClass=com.example.hw7.Search
+tableName=search
+# --table-fields-start--
+# --field-start--
+fieldName=query
+# --field-end--
+# --field-start--
+fieldName=PhotoURL
+# --field-end--
+# --field-start--
+fieldName=PhotoName
+# --field-end--
+# --field-start--
+fieldName=PhotoOwnerURL
+# --field-end--
+# --field-start--
+fieldName=PhotoOwner
+# --field-end--
+# --field-start--
+fieldName=Comments
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
